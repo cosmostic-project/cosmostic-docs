@@ -15,7 +15,7 @@ First, you have to download the latest version of the [COSMOSTIC Client](https:/
 |---------|-------|-------|
 | [![Windows Download]][Windows] | [![Linux Download]][Linux] | [![MacOS Download]][MacOS] |
 
-[Windows]: https://github.com/cosmostic-project/cosmostic-client/releases 'Download COSMOSTIC Installer'
+[Windows]: https://github.com/cosmostic-project/cosmostic-client/releases/latest/download/cosmostic_setup.exe 'Download COSMOSTIC Installer'
 [Windows Download]: https://img.shields.io/badge/Dowload%20for%20Windows-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 
 [Linux]: # 'Released Soon'
